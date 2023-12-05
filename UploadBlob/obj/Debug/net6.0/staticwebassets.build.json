@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fGOOyhzHlkdypy8AAlaN5lm3j7V93F13LjDB8CbGhpE=",
+  "Source": "UploadBlob",
+  "BasePath": "_content/UploadBlob",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
